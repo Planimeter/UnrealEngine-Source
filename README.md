@@ -1,6 +1,11 @@
 # UnrealEngine-Source
 Notes for porting Source Engine content to Unreal Engine
 
+## Utilities
+* [bspsrc](https://github.com/ata4/bspsrc)
+* [VMF2OBJ](https://github.com/Dylancyclone/VMF2OBJ)
+* [Blender](https://www.blender.org/)
+
 ## Blender
 ### Scale[1]
 `0.025400`
