@@ -11,6 +11,7 @@ Start `hammer.exe` from `$GAME/bin`.[1]
 
 ## Blender
 ### Scale[2]
+#### On export from .obj (VMF2OBJ)
 `0.025400`
 
 ### Forward[3]
