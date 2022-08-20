@@ -20,7 +20,7 @@ Start `hammer.exe` from `$GAME/bin`.[1]
 `Z Up`
 
 ## References
-\[1]: https://www.reddit.com/r/hammer/comments/59d0ts/is_sourcesdk_just_broken_or_do_i_have_to_fix/
+\[1]: https://www.reddit.com/r/hammer/comments/59d0ts/is_sourcesdk_just_broken_or_do_i_have_to_fix/  
 \[2]: https://developer.valvesoftware.com/wiki/SteamVR/Environments/Blender_tutorial  
 \[3]: https://developer.valvesoftware.com/wiki/Coordinates
 
