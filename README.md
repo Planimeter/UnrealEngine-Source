@@ -16,7 +16,7 @@ Start `hammer.exe` from `$GAME/bin`.[1]
 ### Forward[3]
 `X Forward`
 
-### Up[2]
+### Up[3]
 `Z Up`
 
 ## References
