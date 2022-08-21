@@ -1,13 +1,13 @@
 # UnrealEngine-Source
 Notes for porting Source Engine content to Unreal Engine
 
-## Hammer
-Start `hammer.exe` from `$GAME/bin`.[1]
-
 ## Utilities
 * [bspsrc](https://github.com/ata4/bspsrc)
 * [io_import_vmf](https://github.com/lasa01/io_import_vmf)
 * [Blender](https://www.blender.org/)
+
+## Hammer
+Start `hammer.exe` from `$GAME/bin`.[1]
 
 ## Blender
 ### Scale[2]
