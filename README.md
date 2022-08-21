@@ -6,7 +6,7 @@ Start `hammer.exe` from `$GAME/bin`.[1]
 
 ## Utilities
 * [bspsrc](https://github.com/ata4/bspsrc)
-* [VMF2OBJ v2.0.0-rc.1](https://github.com/Dylancyclone/VMF2OBJ)
+* [io_import_vmf](https://github.com/lasa01/io_import_vmf)
 * [Blender](https://www.blender.org/)
 
 ## Blender
